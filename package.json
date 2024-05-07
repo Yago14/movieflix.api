@@ -11,11 +11,15 @@
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.2.0",
+    "@types/express": "^4.17.21",
     "@types/node": "^20.12.10",
     "eslint": "^8.57.0",
     "globals": "^15.1.0",
     "tsx": "^4.9.3",
     "typescript": "^5.4.5",
     "typescript-eslint": "^7.8.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
   }
 }
